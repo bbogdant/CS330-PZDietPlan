@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Diet Plan App</string>
+    <!--  Dialog  -->
+    <string name="dialog_button_add">Add</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_enter_product_name">Enter food name</string>
+    <string name="dialog_enter_quantity">Enter quantity</string>
+    <string name="dialog_enter_shopping_list_name">Enter Meal name</string>
+    <string name="dialog_error_product_empty">Product name can\'t be empty</string>
+    <string name="dialog_error_shopping_list_empty">Meal name can\'t be empty</string>
+    <string name="dialog_title_add_new_product">Add new food</string>
+    <string name="dialog_title_add_new_shopping_list">Add new Meal</string>
+    <!--  Drawer  -->
+    <string name="drawer_archived">Archived</string>
+    <string name="drawer_home">Home</string>
+    <string name="drawer_recipes">Recipes</string>
+    <!--  Empty view  -->
+    <string name="empty_view_product_list_subtitle_text">Get started by adding food</string>
+    <string name="empty_view_product_list_title">No food here …</string>
+    <string name="empty_view_shopping_list_subtitle">Get started by adding a meal</string>
+    <string name="empty_view_shopping_list_title">No Meals here …</string>
+    <!--  Menu  -->
+    <string name="menu_archived_shopping_list">Archived Meals</string>
+    <string name="menu_current_shopping_list">Current Meals</string>
+</resources>
